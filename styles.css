@@ -1,0 +1,13 @@
+p,li{
+text-align: justify;
+}
+
+fieldset {
+    border: 3px solid blue;
+    padding: 10px 20px;
+    margin: 20px 0;
+    
+}
+
+
+
