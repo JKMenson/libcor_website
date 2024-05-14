@@ -11,7 +11,7 @@
 --------------------------------------------------------------*/
 body {
   font-family: "Roboto", sans-serif;
-  color: #0f0f0f;
+  
 }
 
 a {
@@ -266,7 +266,7 @@ h6 {
 * Mobile Navigation 
 */
 .mobile-nav-toggle {
-  color: #222222;
+  color: white;
   font-size: 28px;
   cursor: pointer;
   display: none;
@@ -329,7 +329,7 @@ h6 {
 .navbar-mobile a:hover,
 .navbar-mobile .active,
 .navbar-mobile li:hover>a {
-  color: #5cb874;
+  color: navy;
 }
 
 .navbar-mobile .getstarted,
@@ -364,7 +364,7 @@ h6 {
 .navbar-mobile .dropdown ul a:hover,
 .navbar-mobile .dropdown ul .active:hover,
 .navbar-mobile .dropdown ul li:hover>a {
-  color: #5cb874;
+  color: navy;
 }
 
 .navbar-mobile .dropdown>.dropdown-active {
