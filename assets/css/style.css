@@ -10,7 +10,8 @@
 # General
 --------------------------------------------------------------*/
 body {
-  font-family: "Roboto", sans-serif;
+  font-family: 'Times New Roman', Times, serif;
+  background-color: #f8fcf9;
   
 }
 
@@ -30,7 +31,9 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Raleway", sans-serif;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bold;
+  text-decoration: underline;
 }
 
 /*--------------------------------------------------------------
@@ -418,10 +421,12 @@ h6 {
 #hero h2 {
   color: #fff;
   margin-bottom: 20px;
-  font-size: 28px;
+  font-size: 30px;
   font-weight: bold;
   background-color: navy;
   max-width: 500px;
+  text-decoration: none;
+  
 }
 
 #hero p {
@@ -1001,7 +1006,6 @@ section {
 
 .team .member img {
   max-width: 60%;
-  border-radius: 50%;
   margin: 0 0 30px 0;
 }
 
@@ -1056,7 +1060,7 @@ section {
 
 form textarea{
   width: 600px;
-  height: 170px;
+  height: 150px;
 }
 
 #btn{
@@ -1072,7 +1076,7 @@ form input,select{
 
 .contact .info i {
   font-size: 20px;
-  color: #5cb874;
+  color: navy;
   float: left;
   width: 44px;
   height: 44px;
