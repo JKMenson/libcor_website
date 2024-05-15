@@ -418,8 +418,10 @@ h6 {
 #hero h2 {
   color: #fff;
   margin-bottom: 20px;
-  font-size: 48px;
-  font-weight: 700;
+  font-size: 28px;
+  font-weight: bold;
+  background-color: navy;
+  max-width: 500px;
 }
 
 #hero p {
